@@ -1,0 +1,94 @@
+GIt
+
+
+git is free open source software (the source code public) 
+first fall we need to install git on your system 
+for windows we use git shell for your terminal 
+
+
+
+git software :
+ the git hub desktop app can do a lot of things with git but not all, ehich iswhy learining the terminal is important 
+
+git on its isn't like other programss on your computer 
+. younil likely ot see an icon on your desktop, but it eill alwaysbe available to you and you;v=be 
+
+
+
+
+AFTER GIT INSTALLITION:
+ WE GO TO TERMINAL ON GOT APPLOICATION
+USE COMMAND 
+$ git --version
+set your name by usng this command
+$ git config --global user.name "your name"
+
+then set email:
+$ git config --global user.email "y@ex.com"
+
+
+$ are often used in programming doc to signify that the line is command inline code (See the code snippets above///////////////////////0
+
+
+
+
+REPOSITORIES(storage based )
+
+
+a repository is a colleaction of related items . in our case ehrn writhing software it is 
+
+
+using terminal 
+
+terminal or ash is way to instruct your computer to do thingd by typing  commands rather  thin clicking app with your mouse you can ranme files opre files create 
+we can even use a text editor for code (like vim)
+ in yur terminal and never have to leave!
+
+
+
+TO create a Repostoroy
+
+youre going to create a new project floder and thr intsilsxf
+it is a got rep 
+
+mk means make direcrory
+
+  mkdir hello-salientmids
+
+
+change directory
+cd hello-salientmids
+
+
+git to intialize (start tracking )
+git init
+
+
+COMMIT TO IT
+
+
+GOAL " CREATE A FILE IN YUOR NEW REPOSTRORY ADD SOMETING TO THAT FILE AND COMMIT THAT CHAGE WITH GIT
+
+Commits:
+
+
+commits are to using git they are the moments in whcih you save ans describe the work you've done they are the ticks in the  work you've done they are the ticks in the timeline of your project's histiry
+
+
+create file:
+
+now that your got a repository started lets' add file to it.
+
+
+open your text editor and creare a new file noe write a little bit fof text 
+
+
+
+
+
+
+
+
+
+
+
