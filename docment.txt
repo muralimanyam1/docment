@@ -1,4 +1,4 @@
-GIt
+bjdd GIt
 
 
 git is free open source software (the source code public) 
@@ -81,6 +81,21 @@ now that your got a repository started lets' add file to it.
 
 
 open your text editor and creare a new file noe write a little bit fof text 
+
+
+
+REMOTE CONTROL:
+GOAL : connect your local repository to remote one and push changes to it.
+
+you want to sync local version with one stored on GitHun.com first create a new remote repsitory in guthb.com
++ see this symbol click now repository
+
+
+give the name that matchs your local rep name " docment a short desprtion 
+make a public this means it ll be listed on your public profile
+ 
+
+
 
 
 
