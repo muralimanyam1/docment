@@ -1,5 +1,5 @@
 bjdd GIt
-
+<creation> unser the proces>
 
 git is free open source software (the source code public) 
 first fall we need to install git on your system 
